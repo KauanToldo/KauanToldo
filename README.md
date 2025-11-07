@@ -49,15 +49,4 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kauantoldo&show_icons=true&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kauantoldo&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
 ⭐ *“Code, learn, and build — every project is a new opportunity to grow.”*  
