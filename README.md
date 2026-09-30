@@ -13,7 +13,7 @@
 
 ### 🧰 Working with
 
-<img src="https://skillicons.dev/icons?i=ts,vue,nodejs,php,postgres,mysql,rabbitmq" />
+<img src="https://skillicons.dev/icons?i=ts,react,vue,nodejs,php,py,postgres,mysql,rabbitmq" />
 
 ### 📬 Contact
 
