@@ -1,8 +1,8 @@
 <div align="center">
 
-# ⚡ Kauan Toldo
+# Kauan Toldo
 
-**Full-stack Developer** at **Zucchetti** · Brazil 🇧🇷
+![Full-stack Developer](https://img.shields.io/badge/Full--stack%20Developer-Zucchetti-2563EB?style=for-the-badge&logo=codefactor&logoColor=white)
 
 <br>
 
@@ -27,6 +27,6 @@
 
 <br><br>
 
-*"Code, learn, and build — every project is a new opportunity to grow."*
+> Code, learn, and build — every project is a new opportunity to grow.
 
 </div>
