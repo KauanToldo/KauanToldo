@@ -1,31 +1,32 @@
-<h1 align="center">👨‍💻 Kauan Toldo</h1>
-<h3 align="center">Full-stack Developer @ Zucchetti · Brazil 🇧🇷</h3>
+<div align="center">
+
+# ⚡ Kauan Toldo
+
+**Full-stack Developer** at **Zucchetti** · Brazil 🇧🇷
 
 <br>
 
-### 🎓 Formação
+### 🎓 Education
 
-| | |
-|---|---|
-| 🎓 | **Ciência da Computação** — IFC *(em andamento)* |
-| 🎓 | **Técnico em Informática para Internet** — IFC |
-| 📊 | **Data Analyst** — Google Cloud & Looker |
-| 💻 | **Full Stack Developer** — ERP systems |
+<table>
+<tr><td align="center">🎓</td><td align="left"><b>Computer Science</b> — IFC <i>(in progress)</i></td></tr>
+<tr><td align="center">🎓</td><td align="left"><b>Technical Degree in Internet Informatics</b> — IFC</td></tr>
+<tr><td align="center">📊</td><td align="left"><b>Data Analyst</b> — Google Cloud & Looker</td></tr>
+<tr><td align="center">💻</td><td align="left"><b>Full Stack Developer</b> — ERP systems</td></tr>
+</table>
 
 ### 🧰 Working with
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,vue,nodejs,php,postgres,mysql,rabbitmq" />
-</p>
+<img src="https://skillicons.dev/icons?i=ts,vue,nodejs,php,postgres,mysql,rabbitmq" />
 
 ### 📬 Contact
 
-<p align="left">
-  <a href="mailto:kauanlucastoldo@gmail.com"><img src="https://img.shields.io/badge/-Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/kauantoldo"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/kauan.toldo"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
+<a href="mailto:kauanlucastoldo@gmail.com"><img src="https://img.shields.io/badge/-Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/kauantoldo"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/kauan.toldo"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
-<br>
+<br><br>
 
-<p align="center"><i>"Code, learn, and build — every project is a new opportunity to grow."</i></p>
+*"Code, learn, and build — every project is a new opportunity to grow."*
+
+</div>
